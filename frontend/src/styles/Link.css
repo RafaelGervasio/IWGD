@@ -1,0 +1,9 @@
+.link-container {
+    display: flex;
+    justify-content: center; /* Center the link horizontally */
+    margin-top: 1rem; /* Add space above the link */
+}
+
+.register-link {
+    text-align: center; /* Center text in the paragraph */
+}
